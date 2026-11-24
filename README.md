@@ -1,3 +1,4 @@
 # Ky_Thuat_Robot
-Chu_de:Xay_dung_ban_do_moi_truong_cho_robot_tu_hanh
-Le_Huynh_Bao_Ngoc_&amp;_Nguyen_Tran_Tu_Nhi
+Chủ đề: Xây dựng bản đồ môi trường cho robot tự hành
+Lê Huỳnh Bảo Ngọc - 106220184
+Nguyễn Trần Tú Nhi - 106220186
